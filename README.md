@@ -14,7 +14,7 @@ Building impactful projects and solving problems every day 🚀
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-%234ea94b.svg?style=for-the-badge&logo=Python&logoColor=white)
 # 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=yashithubE&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=yashithub&show_icons=true&theme=tokyonight)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashithub&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=yashithub&theme=tokyonight)
 
@@ -34,6 +34,8 @@ Building impactful projects and solving problems every day 🚀
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 
+
+
 ## 🚀 Currently Working On
 
 * 🤖 Learning Generative AI & LLMs
@@ -41,14 +43,6 @@ Building impactful projects and solving problems every day 🚀
 * 💻 Practicing Data Structures & Algorithms
 * 🌱 Contributing to Open Source
 * 🏗️ Creating real-world projects
-
----
-
-## 📌 Featured Projects
-
-* 🌿 **CarbonTrace** – AI + Blockchain platform for carbon credit verification
-* 🌦️ **Vayu Sense** – Modern Weather & AQI Dashboard
-* 📄 **AI Document Assistant** – Ask questions over documents using LLMs
 
 ---
 
