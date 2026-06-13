@@ -75,10 +75,10 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-<div align="center">
-
 ## 🏆 Coding Profiles
 
+<div align="center">
+  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yaash2320/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yashpradeep)
 [![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://codolio.com/profile/yash_xd)
@@ -94,7 +94,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 
 </div>
----
 
 <div align="center">
 
