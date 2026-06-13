@@ -6,10 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Exploring+Generative+AI;DSA+Enthusiast;Always+Learning+New+Things" />
 </p>
-
-[![GitHub followers](https://img.shields.io/github/followers/yashithub?style=for-the-badge&color=blue)](https://github.com/yashithub?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/yashithub?style=for-the-badge&color=yellow)](https://github.com/yashithub?tab=repositories)
-
 </div>
 
 ---
