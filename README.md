@@ -6,8 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Exploring+Generative+AI;DSA+Enthusiast;Always+Learning+New+Things" />
 </p>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=yashithub&color=blueviolet&style=for-the-badge)](https://github.com/yashithub)
 [![GitHub followers](https://img.shields.io/github/followers/yashithub?style=for-the-badge&color=blue)](https://github.com/yashithub?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/yashithub?style=for-the-badge&color=yellow)](https://github.com/yashithub?tab=repositories)
 
@@ -17,9 +15,16 @@
 
 ##  About Me
 
-Building impactful projects and solving problems every day 🚀
+🚀 Passionate B.Tech student focused on Full Stack Development, Competitive Programming, and Generative AI.
+💡 I enjoy building real-world applications, solving algorithmic problems, and continuously learning modern technologies.
 ---
+## 🚀 Currently Working On
 
+- 🤖 Learning Generative AI & LLMs
+- ⚛️ Building scalable Full Stack applications
+- 💻 Solving DSA problems daily
+- 🌱 Contributing to open source
+---
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -72,9 +77,8 @@ Building impactful projects and solving problems every day 🚀
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpradeep2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashpradeep23)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)]()
 
 </div>
 
