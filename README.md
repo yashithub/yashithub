@@ -89,7 +89,7 @@
   <a href="https://codeforces.com/profile/yashpradeep" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" alt="Codeforces" width="45" height="45">
   </a>
-  <a href="https://www.codolio.com/users/yash_xd" target="_blank">
+  <a href="https://codolio.com/profile/yash_xd" target="_blank">
     <img src="https://imgs.search.brave.com/-8xAsULnWe8EsKSJSucoEcmQ4Xv51I-KOPMYFIzmEoc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Z0Y2RuLm5l/dC9pbWFnZXMvdF9h/cHAtaWNvbi1zL3Av/NmIyMTFkYTQtYTc0/OS00NTVhLWJmZjQt/YWYwN2RmYjIyYjFj/Lzg2MDM5MjA2OC9j/b2RvbGlvLWxvZ28" alt="Codolio" width="45" height="45">
   </a>
 </div>
