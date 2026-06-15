@@ -82,10 +82,17 @@
 ## 🏆 Coding Profiles
 
 <div align="center">
-  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yaash2320/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yashpradeep)
-[![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://codolio.com/profile/yash_xd)
+  <div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://leetcode.com/u/yaash2320/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode" width="45" height="45">
+  </a>
+  <a href="https://codeforces.com/profile/yashpradeep" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" alt="Codeforces" width="45" height="45">
+  </a>
+  <a href="https://www.codolio.com/users/yash_xd" target="_blank">
+    <img src="https://imgs.search.brave.com/-8xAsULnWe8EsKSJSucoEcmQ4Xv51I-KOPMYFIzmEoc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Z0Y2RuLm5l/dC9pbWFnZXMvdF9h/cHAtaWNvbi1zL3Av/NmIyMTFkYTQtYTc0/OS00NTVhLWJmZjQt/YWYwN2RmYjIyYjFj/Lzg2MDM5MjA2OC9j/b2RvbGlvLWxvZ28" alt="Codolio" width="45" height="45">
+  </a>
+</div>
 <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yaash2320?theme=dark&font=baloo&extension=heatmap)
 
@@ -96,10 +103,10 @@
 
 <p align="center" style="display: flex; justify-content: space-between; align-items: center; max-width: 400px; margin: auto;">
 <a href="https://www.linkedin.com/in/yashpradeep23">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" />
 </a>
-<a href="">
-  <img height="50" src="[https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png](https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000)"/>
+<a href="mailto">
+  <img height="50" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"/>
 </a>
 </p>
 
