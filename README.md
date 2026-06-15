@@ -106,7 +106,7 @@
 <a href="https://www.linkedin.com/in/yashpradeep23">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" />
 </a>
-<a href="mailto">
+<a href="mailto:yashpradeep23@gmail.com">
   <img height="50" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"/>
 </a>
 </p>
