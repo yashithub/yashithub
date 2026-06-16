@@ -8,7 +8,6 @@
 I am a passionate B.Tech student focused on Full Stack Development, Competitive Programming, and Generative AI.
 I enjoy building real-world applications, solving algorithmic problems, and continuously learning modern technologies.
 </p>
----
 
 <h1 align="center">Currently Working On</h1>
 
