@@ -4,17 +4,10 @@
 </p>
   
 <h1 align="center">Hey, I'm Yash👋</h1>
-
 <p align="center">
-  B.Tech Student • Full Stack Developer • Exploring AI
-</p>
-
-<h1 align="">About Me</h1>
-
-Passionate B.Tech student focused on Full Stack Development, Competitive Programming, and Generative AI.
+I am a passionate B.Tech student focused on Full Stack Development, Competitive Programming, and Generative AI.
 I enjoy building real-world applications, solving algorithmic problems, and continuously learning modern technologies.
-
-
+</p>
 ---
 
 <h1 align="center">Currently Working On</h1>
