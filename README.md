@@ -1,23 +1,24 @@
-<div align="center">
+<div align="">
 <p align="center">
   <img src="banner.png" alt="Yash GitHub Banner" width="100%" />
 </p>
   
 <h1 align="center">Hey, I'm Yash👋</h1>
-<p align="center">
+<p align="">
 I am a passionate B.Tech student focused on Full Stack Development, Competitive Programming, and Generative AI.
 I enjoy building real-world applications, solving algorithmic problems, and continuously learning modern technologies.
 </p>
 
-<h1 align="center">Currently Working On</h1>
+<h1 align="">Currently Working On</h1>
 
 - 🤖 Learning Generative AI & LLMs
 - ⚛️ Building scalable Full Stack applications
 - 💻 Solving DSA problems daily
 - 🌱 Contributing to open source
+
 ---
 
-## Tech Stack
+<h1 align="">Tech Stack</h1>
 
 **Languages:** C++, Python, JavaScript, HTML, CSS
 
