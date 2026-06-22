@@ -34,28 +34,6 @@ I enjoy building real-world applications, solving algorithmic problems, and cont
 [![](https://github-readme-activity-graph.vercel.app/graph?username=yashithub&theme=react-dark&hide_border=true&area=true)](https://github.com/yashithub)
 
 ---
-
-## 🏆 Coding Profiles
-
-<div align="center">
-  <div style="display: flex; gap: 100px; align-items: center;">
-  <a href="https://leetcode.com/u/yaash2320/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode" width="45" height="45" padding: "10px">
-  </a>
-  <a href="https://codeforces.com/profile/yashpradeep" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" alt="Codeforces" width="45" height="45">
-  </a>
-  <a href="https://codolio.com/profile/yash_xd" target="_blank">
-    <img src="https://imgs.search.brave.com/-8xAsULnWe8EsKSJSucoEcmQ4Xv51I-KOPMYFIzmEoc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Z0Y2RuLm5l/dC9pbWFnZXMvdF9h/cHAtaWNvbi1zL3Av/NmIyMTFkYTQtYTc0/OS00NTVhLWJmZjQt/YWYwN2RmYjIyYjFj/Lzg2MDM5MjA2OC9j/b2RvbGlvLWxvZ28" alt="Codolio" width="45" height="45">
-  </a>
-</div>
-<br>
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/yaash2320?theme=dark&font=baloo&extension=heatmap)
-
-</div>
-
----
 ## 📫 Connect With Me
 
 <p align="center" style="display: flex; justify-content: space-between; align-items: center; max-width: 400px; margin: auto;">
